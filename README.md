@@ -1,16 +1,5 @@
 # weather_app_api
+fatch current location and get realtime weather infrmation from weater map api
+## Sample Page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![book_collections_icons](https://github.com/bereketsewnet/weather_app_api/assets/121679782/bdf9d371-08bc-444a-b866-602978d7a51b)
